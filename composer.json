@@ -4576,6 +4576,7 @@
         "wpackagist-plugin/metform": "<= 3.8.8.0",
         "wpackagist-plugin/metorik-helper": "<=1.7.1",
         "wpackagist-plugin/metricool": "<=1.17",
+        "wpackagist-plugin/metrika": "<=1.2",
         "wpackagist-plugin/metronet-profile-picture": "<=2.6.1",
         "wpackagist-plugin/metronet-tag-manager": "<1.2.9",
         "wpackagist-plugin/mf-gig-calendar": "<=1.2.1",
