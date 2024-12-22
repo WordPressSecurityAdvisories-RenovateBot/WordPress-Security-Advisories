@@ -4787,7 +4787,7 @@
         "wpackagist-plugin/my-custom-css": "<=3.3",
         "wpackagist-plugin/my-favorites": "<= 1.4.3.0",
         "wpackagist-plugin/my-geo-posts-free": "<=1.2",
-        "wpackagist-plugin/my-idx-home-search": "<=2.0.1",
+        "wpackagist-plugin/my-idx-home-search": "<= 2.1.1.0",
         "wpackagist-plugin/my-instagram-feed": ">=1.0.0,<=3.1.1",
         "wpackagist-plugin/my-link-order": "<=4.3",
         "wpackagist-plugin/my-page-order": "<=4.3",
