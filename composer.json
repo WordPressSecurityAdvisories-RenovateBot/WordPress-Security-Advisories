@@ -929,6 +929,7 @@
         "wpackagist-plugin/bft-autoresponder": "*",
         "wpackagist-plugin/bg-biblie-references": "<=3.8.14",
         "wpackagist-plugin/bg-patriarchia-bu": "<=2.2.3",
+        "wpackagist-plugin/biagiotti-membership": "<=1.0.2",
         "wpackagist-plugin/bib2html": "<=0.9.3",
         "wpackagist-plugin/bible-text": "<=0.2",
         "wpackagist-plugin/bic-media": "<=1.0",
