@@ -7752,6 +7752,7 @@
         "wpackagist-plugin/visual-form-builder": "< 3.0.8.0-dev",
         "wpackagist-plugin/visual-link-preview": "<2.2.3",
         "wpackagist-plugin/visual-portfolio": "<= 3.3.9.0",
+        "wpackagist-plugin/visual-recent-posts": "<=1.2.3",
         "wpackagist-plugin/visual-sound": "<=1.03",
         "wpackagist-plugin/visual-sound-widget-for-soundcloud-and-artistplugme-visualdreams": "<=1.06",
         "wpackagist-plugin/visualcomposer": "<= 45.8.0.0",
