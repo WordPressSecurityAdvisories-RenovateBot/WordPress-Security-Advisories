@@ -2598,6 +2598,7 @@
         "wpackagist-plugin/embed-power-bi-reports": "<=1.1.7",
         "wpackagist-plugin/embed-privacy": "<=1.8.0",
         "wpackagist-plugin/embed-swagger": "<=1.0.0",
+        "wpackagist-plugin/embed-twine": "<=0.1.0",
         "wpackagist-plugin/embed-video-thumbnail": "<=1.3.0",
         "wpackagist-plugin/embed-youtube-video": "<=1.0",
         "wpackagist-plugin/embedalbum-pro": "<= 1.1.29.0",
