@@ -9443,6 +9443,7 @@
         "wpackagist-plugin/xo-liteslider": "<= 3.8.6.0",
         "wpackagist-plugin/xo-security": "<1.5.3",
         "wpackagist-plugin/xorbin-digital-flash-clock": "<=1.0",
+        "wpackagist-plugin/xpd-reduce-image-filesize": "<=1.0",
         "wpackagist-plugin/xpinner-lite": "<=2.2",
         "wpackagist-plugin/xpresslane-integration-for-woocommerce": "<=1.0.0",
         "wpackagist-plugin/xpro-elementor-addons": "<=1.4.6.1",
