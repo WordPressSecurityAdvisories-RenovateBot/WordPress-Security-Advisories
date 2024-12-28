@@ -8681,6 +8681,7 @@
         "wpackagist-plugin/wp-feature-box": "<=0.1.3",
         "wpackagist-plugin/wp-featured-content-and-slider": "<=1.6",
         "wpackagist-plugin/wp-fevents-book": "<=0.46",
+        "wpackagist-plugin/wp-fiddle": "<=1.0",
         "wpackagist-plugin/wp-file-checker": "<=0.6",
         "wpackagist-plugin/wp-file-download-light": "<=1.3.3",
         "wpackagist-plugin/wp-file-get-contents": "<=2.7.0",
