@@ -3894,6 +3894,7 @@
         "wpackagist-plugin/invitation-based-registrations": "<=2.2.84",
         "wpackagist-plugin/invitation-code-content-access": "<=1.5.4",
         "wpackagist-plugin/invite-anyone": "<= 1.4.7.0",
+        "wpackagist-plugin/invoice-payment-for-woocommerce": "<=1.7.2",
         "wpackagist-plugin/invoicing": "<=2.8.11",
         "wpackagist-plugin/ip-address-blocker": "<=11.1.1",
         "wpackagist-plugin/ip-blacklist-cloud": "<=5.00",
