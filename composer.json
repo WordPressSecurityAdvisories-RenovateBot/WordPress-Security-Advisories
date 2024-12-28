@@ -6776,7 +6776,7 @@
         "wpackagist-plugin/snow-monkey-forms": "<=5.1.1",
         "wpackagist-plugin/so-audible": "<=0.9",
         "wpackagist-plugin/so-pinyin-slugs": "<=2.3.0",
-        "wpackagist-plugin/so-widgets-bundle": "<=1.62.2",
+        "wpackagist-plugin/so-widgets-bundle": "<= 1.64.0.0",
         "wpackagist-plugin/soccer-engine-lite": "<=1.12",
         "wpackagist-plugin/sociable": "<=4.3.4.1",
         "wpackagist-plugin/social-autho-bio": "<=2.4",
