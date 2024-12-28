@@ -7708,6 +7708,7 @@
         "wpackagist-plugin/variable-inspector": "<=2.3.0",
         "wpackagist-plugin/vaultpress": "<=1.9",
         "wpackagist-plugin/vayu-blocks": "<=1.1.1",
+        "wpackagist-plugin/vbsso-lite": "<=1.4.3",
         "wpackagist-plugin/vc-addons-by-bit14": "<=1.4.7",
         "wpackagist-plugin/vc-tabs": "<= 4.0.6.0",
         "wpackagist-plugin/vc_clipboard": "< 4.5.8.0-dev",
