@@ -4072,7 +4072,7 @@
         "wpackagist-plugin/kiwi-logo-carousel": "<1.7.2",
         "wpackagist-plugin/kiwi-social-share": "<= 2.1.7.0",
         "wpackagist-plugin/kjm-admin-notices": "<=2.0.1",
-        "wpackagist-plugin/kk-star-ratings": "<=5.4.5",
+        "wpackagist-plugin/kk-star-ratings": "<= 5.4.10.0",
         "wpackagist-plugin/kkprogressbar": "<=1.1.4.2",
         "wpackagist-plugin/klarna-checkout-for-woocommerce": "<2.0.10",
         "wpackagist-plugin/klarna-payments-for-woocommerce": "<=3.2.4",
