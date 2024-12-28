@@ -8127,6 +8127,7 @@
         "wpackagist-plugin/woo-multi-currency": "<= 2.2.3.0",
         "wpackagist-plugin/woo-myghpay-payment-gateway": "<=3.0",
         "wpackagist-plugin/woo-nmi-three-step": "<=1.6.11",
+        "wpackagist-plugin/woo-one-click-upsell-funnel": "<=3.4.9",
         "wpackagist-plugin/woo-order-export-lite": "<= 3.5.5.0",
         "wpackagist-plugin/woo-order-notes": "<=1.5.2",
         "wpackagist-plugin/woo-orders-tracking": "<= 1.2.10.0",
