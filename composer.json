@@ -413,6 +413,7 @@
         "wpackagist-plugin/ai-postpix": "<=1.1.8",
         "wpackagist-plugin/ai-quiz": "<=1.1",
         "wpackagist-plugin/ai-responsive-gallery-album": "<=1.4",
+        "wpackagist-plugin/ai-site-builder": "<=1.0.2",
         "wpackagist-plugin/ai-twitter-feeds": "<=2.4",
         "wpackagist-plugin/ai-wp-writer": "<=3.6.5",
         "wpackagist-plugin/aikit-wordpress-ai-writing-assistant-using-gpt3": "<=4.14.1",
