@@ -6336,6 +6336,7 @@
         "wpackagist-plugin/serp-rank": "<=1.0.7",
         "wpackagist-plugin/server-info": ">=2.5.1,<=2.5.3",
         "wpackagist-plugin/server-status-by-hostnameip": "<=4.6",
+        "wpackagist-plugin/service": "<=1.0.4",
         "wpackagist-plugin/service-area-postcode-checker": "<=2.0.8",
         "wpackagist-plugin/set-admin-colour-on-staging-and-dev": ">=2.2,<=4.0.0",
         "wpackagist-plugin/setka-editor": "<= 2.1.20.0",
