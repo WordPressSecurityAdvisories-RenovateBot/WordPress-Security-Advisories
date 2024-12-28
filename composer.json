@@ -3404,6 +3404,7 @@
         "wpackagist-plugin/goqsmile": "<=1.0.1",
         "wpackagist-plugin/gotmls": "<= 4.21.96.0",
         "wpackagist-plugin/gotowp": "<=5.1.1",
+        "wpackagist-plugin/gou-wc-account-tabs": "<=1.0.1.8",
         "wpackagist-plugin/gourl-bitcoin-payment-gateway-paid-downloads-membership": "<=1.4.13",
         "wpackagist-plugin/gp-premium": "<=2.4.0",
         "wpackagist-plugin/gp-unique-id": "<=1.5.5",
