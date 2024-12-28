@@ -9743,6 +9743,7 @@
         "wpackagist-theme/bordeaux-theme": "*",
         "wpackagist-theme/brain-power": "*",
         "wpackagist-theme/brand": "<=1.9.1",
+        "wpackagist-theme/brandy": "<=1.1.6",
         "wpackagist-theme/brasserie": "<=2.0",
         "wpackagist-theme/bravada": "<=1.1.2",
         "wpackagist-theme/bricks": "<= 1.10.1.0",
