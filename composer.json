@@ -4903,7 +4903,7 @@
         "wpackagist-plugin/new-order-popup": ">=1.0.0,<=1.1.0",
         "wpackagist-plugin/new-photo-gallery": "<=1.4.2",
         "wpackagist-plugin/new-royalslider": "<=3.4.2",
-        "wpackagist-plugin/new-user-approve": "<=2.5.1",
+        "wpackagist-plugin/new-user-approve": "<= 2.6.2.0",
         "wpackagist-plugin/new-user-email-set-up": "<=0.5.2",
         "wpackagist-plugin/new-video-gallery": "<=1.5.3",
         "wpackagist-plugin/new-year-firework": "<=1.1.9",
