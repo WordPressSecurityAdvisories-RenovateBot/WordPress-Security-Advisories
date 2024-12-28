@@ -2918,7 +2918,7 @@
         "wpackagist-plugin/fileorganizer": "<= 1.1.4.0",
         "wpackagist-plugin/files-download-delay": "< 1.0.7.0-dev",
         "wpackagist-plugin/filestack-upload": "<=2.0.0",
-        "wpackagist-plugin/filester": "<= 1.8.5.0",
+        "wpackagist-plugin/filester": "<= 1.8.6.0",
         "wpackagist-plugin/fileviewer": "<=2.2",
         "wpackagist-plugin/filr-protection": "<= 1.2.4.0",
         "wpackagist-plugin/filter-custom-fields-taxonomies-light": "<=1.05",
