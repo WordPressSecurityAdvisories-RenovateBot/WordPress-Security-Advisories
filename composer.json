@@ -8829,6 +8829,7 @@
         "wpackagist-plugin/wp-login-box": "<=2.0.2",
         "wpackagist-plugin/wp-login-customizer": "<=1.0",
         "wpackagist-plugin/wp-login-security-and-history": "<=1.0",
+        "wpackagist-plugin/wp-login-with-ajax": "<=0.6",
         "wpackagist-plugin/wp-logo-showcase": "<1.3.37",
         "wpackagist-plugin/wp-logo-showcase-responsive-slider-slider": "<=3.6",
         "wpackagist-plugin/wp-logs-book": "<=1.0.1",
