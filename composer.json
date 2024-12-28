@@ -10398,7 +10398,7 @@
         "wpackagist-theme/winters": "<=1.4.3",
         "wpackagist-theme/wise": "*",
         "wpackagist-theme/wishful-blog": "<=2.0.1",
-        "wpackagist-theme/woffice": "<=5.4.10",
+        "wpackagist-theme/woffice": "<= 5.4.14.0",
         "wpackagist-theme/woodmart": "<= 8.0.3.0",
         "wpackagist-theme/woohoo": "<=2.5.3",
         "wpackagist-theme/woostify": "<=1.9.1",
