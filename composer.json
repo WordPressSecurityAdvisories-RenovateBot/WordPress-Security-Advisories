@@ -2665,6 +2665,7 @@
         "wpackagist-plugin/estatik": "<= 4.1.0.0",
         "wpackagist-plugin/estatik-mortgage-calculator": "<=2.0.11",
         "wpackagist-plugin/et-core-plugin": "<=5.3.8",
+        "wpackagist-plugin/etemplates": "<=0.2.1",
         "wpackagist-plugin/ether-and-erc20-tokens-woocommerce-payment-gateway": ">=3.0.0,<=4.12.12",
         "wpackagist-plugin/ethereum-wallet": "<=4.10.5",
         "wpackagist-plugin/ethereumico": ">=2.0.0,<=2.4.3",
