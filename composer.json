@@ -1456,6 +1456,7 @@
         "wpackagist-plugin/cheetaho-image-optimizer": "<=1.4.3",
         "wpackagist-plugin/cherry-plugin": "<1.2.7",
         "wpackagist-plugin/chessgame-shizzle": "<=1.3.0",
+        "wpackagist-plugin/chesstempoviewer": "<=0.9.5",
         "wpackagist-plugin/child-support-calculator": ">=1.0.1,<=2.0.1.2",
         "wpackagist-plugin/child-theme-generator": "<=2.2.7",
         "wpackagist-plugin/chilexpress-oficial": "<=1.2.9",
