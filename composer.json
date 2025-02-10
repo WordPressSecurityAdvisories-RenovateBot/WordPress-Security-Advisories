@@ -9320,6 +9320,7 @@
         "wpackagist-plugin/wp-topbar": "<= 5.36.0.0",
         "wpackagist-plugin/wp-total-branding": "<=1.2",
         "wpackagist-plugin/wp-total-hacks": "<=4.7.2",
+        "wpackagist-plugin/wp-touch-slider": "<=2.2",
         "wpackagist-plugin/wp-tradingview": "<=1.7",
         "wpackagist-plugin/wp-transactions": "<=1.0.9",
         "wpackagist-plugin/wp-translate": "<=5.3.0",
