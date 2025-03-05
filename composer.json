@@ -7972,6 +7972,7 @@
         "wpackagist-plugin/voting-record": "<=2.0",
         "wpackagist-plugin/vp-sitemap": "<=1.0",
         "wpackagist-plugin/vr-calendar-sync": "<= 2.4.4.0",
+        "wpackagist-plugin/vr-frases": "<=3.0.1",
         "wpackagist-plugin/vr-views": "<=1.5.1",
         "wpackagist-plugin/vrm360": "<=1.2.1",
         "wpackagist-plugin/vrview": "<=1.1.3",
