@@ -2749,7 +2749,7 @@
         "wpackagist-plugin/etemplates": "<=0.2.1",
         "wpackagist-plugin/ether-and-erc20-tokens-woocommerce-payment-gateway": ">=3.0.0,<=4.12.12",
         "wpackagist-plugin/ethereum-wallet": "<=4.10.5",
-        "wpackagist-plugin/ethereumico": ">=2.0.0,<=2.4.3",
+        "wpackagist-plugin/ethereumico": "<= 2.4.6.0",
         "wpackagist-plugin/etruel-del-post-copies": "<=5.5",
         "wpackagist-plugin/etsy-shop": "<= 3.0.4.0",
         "wpackagist-plugin/eu-cookie-law": "<=3.1.6",
