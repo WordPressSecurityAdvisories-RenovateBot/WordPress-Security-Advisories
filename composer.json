@@ -882,7 +882,7 @@
         "wpackagist-plugin/at-internet": "<=0.2",
         "wpackagist-plugin/atarapay-woocommerce": "<=2.0.13",
         "wpackagist-plugin/atarim-visual-collaboration": "<= 4.1.0.0",
-        "wpackagist-plugin/atelier-create-cv": "<=1.1.2",
+        "wpackagist-plugin/atelier-create-cv": "<= 1.1.5.0",
         "wpackagist-plugin/athemes-addons-for-elementor-lite": "<= 1.0.16.0",
         "wpackagist-plugin/athemes-starter-sites": "<=1.0.53",
         "wpackagist-plugin/athlon-manage-calameo-publications": "<=1.1.0",
