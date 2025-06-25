@@ -6729,6 +6729,7 @@
         "wpackagist-plugin/one-click-order-reorder": "<=1.1.9",
         "wpackagist-plugin/one-click-plugin-updater": "<=2.4.14",
         "wpackagist-plugin/one-click-ssl": "<1.4.7",
+        "wpackagist-plugin/one-login": "<=1.4",
         "wpackagist-plugin/one-page-blocks": "<=1.0.0",
         "wpackagist-plugin/one-page-express-companion": "<=1.6.37",
         "wpackagist-plugin/one-user-avatar": "<2.3.7",
