@@ -10419,6 +10419,7 @@
         "wpackagist-plugin/wc-myparcel-belgium": "<=4.5.5-beta",
         "wpackagist-plugin/wc-order-limit-lite": "<= 3.0.2.0",
         "wpackagist-plugin/wc-pagaleve": "<=1.6.9",
+        "wpackagist-plugin/wc-partial-shipment": "<=3.2",
         "wpackagist-plugin/wc-payment-gateway-per-category": "<=2.0.10",
         "wpackagist-plugin/wc-payphone-gateway": "<=3.2.0",
         "wpackagist-plugin/wc-peach-payments-gateway": "<=3.1.9",
