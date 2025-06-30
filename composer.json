@@ -6840,6 +6840,7 @@
         "wpackagist-plugin/osm": "<= 6.1.6.0",
         "wpackagist-plugin/osm-map-elementor": "<=1.2.2",
         "wpackagist-plugin/osmapper": "<=2.1.5",
+        "wpackagist-plugin/osomblocks": "<=1.2.1",
         "wpackagist-plugin/oss-aliyun": "<=1.4.10",
         "wpackagist-plugin/oss-upload": "<=4.8.9",
         "wpackagist-plugin/ota-sync-booking-engine-widget": "<=1.2.7",
