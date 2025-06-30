@@ -9742,6 +9742,7 @@
         "wpackagist-plugin/timesheet": "<0.1.5",
         "wpackagist-plugin/timeslot": "<=1.3.6",
         "wpackagist-plugin/timetics": "<= 1.0.29.0",
+        "wpackagist-plugin/timezonecalculator": "<=3.37",
         "wpackagist-plugin/timthumb": "<=2.8.13",
         "wpackagist-plugin/timthumb-vulnerability-scanner": "<=1.54",
         "wpackagist-plugin/tin-canny-learndash-reporting": "<=4.3.0.7",
