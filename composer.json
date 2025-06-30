@@ -7880,6 +7880,7 @@
         "wpackagist-plugin/related-posts-list-grid-and-slider-all-in-one": "<=3.0.0.1",
         "wpackagist-plugin/related-posts-via-categories": "<=2.1.2",
         "wpackagist-plugin/related-posts-via-taxonomies": "<=1.0.1",
+        "wpackagist-plugin/related-products-manager-woocommerce": "<=1.6.2",
         "wpackagist-plugin/related-sites": "<=2.2",
         "wpackagist-plugin/related-videos-for-jw-player": "<=1.2.0",
         "wpackagist-plugin/related-youtube-videos": "<1.9.9",
