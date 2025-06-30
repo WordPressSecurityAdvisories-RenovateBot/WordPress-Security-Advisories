@@ -9816,6 +9816,7 @@
         "wpackagist-plugin/tourfic": "<= 2.15.3.0",
         "wpackagist-plugin/tourmaster": "< 5.4.1.0-dev",
         "wpackagist-plugin/tournamatch": "<= 4.6.2.0",
+        "wpackagist-plugin/tournament-bracket-generator": "<=1.0.0",
         "wpackagist-plugin/tours": "<=1.0.0",
         "wpackagist-plugin/tp-education": "<=4.4",
         "wpackagist-plugin/tp-gallery-slider": "<=1.2",
