@@ -7558,6 +7558,7 @@
         "wpackagist-plugin/progressive-license": "<=1.1.0",
         "wpackagist-plugin/progressive-wp": "<=2.1.13",
         "wpackagist-plugin/project-app": "*",
+        "wpackagist-plugin/project-notebooks": ">=1.0.0,<=1.1.3",
         "wpackagist-plugin/project-panorama-lite": "<= 1.5.1.0",
         "wpackagist-plugin/project-source-code-download": "<=1.0.0",
         "wpackagist-plugin/project-status": "<=1.6",
