@@ -6656,7 +6656,7 @@
         "wpackagist-plugin/notification-for-telegram": "<=3.3.1",
         "wpackagist-plugin/notifications-center": "<=1.5.2",
         "wpackagist-plugin/notificationx": "<= 2.9.5.0",
-        "wpackagist-plugin/notifier": "<=2.6",
+        "wpackagist-plugin/notifier": "<= 2.7.7.0",
         "wpackagist-plugin/notifikacie-sk": "<=1.0",
         "wpackagist-plugin/notify-odoo": "<=1.0.0",
         "wpackagist-plugin/notifyvisitors-lead-form": "<=1.0",
