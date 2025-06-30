@@ -11382,6 +11382,7 @@
         "wpackagist-plugin/wp-download-codes": "<=2.5.4",
         "wpackagist-plugin/wp-download-manager": "<1.61",
         "wpackagist-plugin/wp-download-mirror-counter": "<=1.1",
+        "wpackagist-plugin/wp-downloadcounter": "<=1.01",
         "wpackagist-plugin/wp-downloadmanager": "<= 1.68.10.0",
         "wpackagist-plugin/wp-dpe-ges": "<=1.6",
         "wpackagist-plugin/wp-dream-carousel": "<=1.0.1b",
