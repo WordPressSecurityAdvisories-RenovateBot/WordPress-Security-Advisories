@@ -888,6 +888,7 @@
         "wpackagist-plugin/athlon-manage-calameo-publications": "<=1.1.0",
         "wpackagist-plugin/atlas-knowledge-base": ">=1.0.0,<=6.0",
         "wpackagist-plugin/atomchat": "<= 1.1.6.0",
+        "wpackagist-plugin/atp-call-now": "<=1.0.3",
         "wpackagist-plugin/attach-gallery-posts": "<=1.6",
         "wpackagist-plugin/attachment-file-icons": "<=1.3",
         "wpackagist-plugin/attendance-manager": "<= 0.6.2.0",
