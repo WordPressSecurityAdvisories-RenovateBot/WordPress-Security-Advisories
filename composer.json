@@ -11690,7 +11690,7 @@
         "wpackagist-plugin/wp-mail-smtp": "<=4.0.1",
         "wpackagist-plugin/wp-mail-smtp-pro": "<=3.8.0",
         "wpackagist-plugin/wp-mailer": "<=0.64",
-        "wpackagist-plugin/wp-mailing-group": "<= 3.0.4.0",
+        "wpackagist-plugin/wp-mailing-group": "<= 3.0.5.0",
         "wpackagist-plugin/wp-mailster": "<= 1.8.20.0",
         "wpackagist-plugin/wp-mailto-links": "<=3.1.3",
         "wpackagist-plugin/wp-mailup": "< 1.3.3.0-dev",
