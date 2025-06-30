@@ -11814,6 +11814,7 @@
         "wpackagist-plugin/wp-photo-effects": "<1.2.3",
         "wpackagist-plugin/wp-photo-sphere": "<=3.8",
         "wpackagist-plugin/wp-photo-text-slider-50": "<= 8.1.0.0",
+        "wpackagist-plugin/wp-photonav": "<=1.2.2",
         "wpackagist-plugin/wp-php-widget": "<=1.0.2",
         "wpackagist-plugin/wp-phpmyadmin-extension": "<=5.2.0.3",
         "wpackagist-plugin/wp-picasa-image": "<=1.0",
