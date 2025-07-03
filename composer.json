@@ -9170,7 +9170,7 @@
         "wpackagist-plugin/splitit-installment-payments": "<=4.2.8",
         "wpackagist-plugin/spnbabble": "<=1.4.1",
         "wpackagist-plugin/spoiler-block": "<=1.7",
-        "wpackagist-plugin/spoki": "<=2.15.15",
+        "wpackagist-plugin/spoki": "<= 2.16.0.0",
         "wpackagist-plugin/sponsered-link": "<=4.0",
         "wpackagist-plugin/sponsors-carousel": "<=4.0.2",
         "wpackagist-plugin/spoontalk-social-media-icons-widget": "<=1.6",
