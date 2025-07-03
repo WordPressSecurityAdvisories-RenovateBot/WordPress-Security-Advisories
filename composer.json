@@ -731,6 +731,7 @@
         "wpackagist-plugin/announce-from-the-dashboard": "<= 1.5.2.0",
         "wpackagist-plugin/announcekit": "<=2.0.9",
         "wpackagist-plugin/announcer": "<=6.0",
+        "wpackagist-plugin/anonform-embedded-secure-form": "<=1.7",
         "wpackagist-plugin/anonymize-links": "<=1.1",
         "wpackagist-plugin/anonymous-restricted-content": "<=1.6.5",
         "wpackagist-plugin/another-events-calendar": "<=1.7.0",
