@@ -9779,6 +9779,7 @@
         "wpackagist-plugin/tinymce-custom-styles": "<= 1.1.3.0",
         "wpackagist-plugin/tinymce-extended-config": "<=0.1.0",
         "wpackagist-plugin/tinymce-thumbnail-gallery": "<=1.0.7",
+        "wpackagist-plugin/tinynav": "<=1.4",
         "wpackagist-plugin/tippy": "<=6.2.1",
         "wpackagist-plugin/tipsacarrier": "<1.5.0.5",
         "wpackagist-plugin/titan-framework": "*",
