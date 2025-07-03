@@ -10788,6 +10788,7 @@
         "wpackagist-plugin/woo-gutenberg-products-block": "<= 11.1.1.0",
         "wpackagist-plugin/woo-inpost": "<=1.4.0",
         "wpackagist-plugin/woo-inquiry": "<=0.1",
+        "wpackagist-plugin/woo-line-notify": "<=1.1.7",
         "wpackagist-plugin/woo-login-redirect": "<=2.2.4",
         "wpackagist-plugin/woo-lucky-wheel": "<=1.0.10",
         "wpackagist-plugin/woo-mailerlite": "<=2.0.8",
