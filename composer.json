@@ -2958,7 +2958,7 @@
         "wpackagist-plugin/double-opt-in-for-download": "< 2.1.0.0-dev",
         "wpackagist-plugin/dovetail": "<=1.2.13",
         "wpackagist-plugin/down-as-pdf": "<=2.3.6",
-        "wpackagist-plugin/download-attachments": "<=1.3",
+        "wpackagist-plugin/download-attachments": "<= 1.3.1.0",
         "wpackagist-plugin/download-button-for-elementor": "<=1.2.1",
         "wpackagist-plugin/download-from-files": "<=1.48",
         "wpackagist-plugin/download-html-tinymce-button": "<=1.2",
