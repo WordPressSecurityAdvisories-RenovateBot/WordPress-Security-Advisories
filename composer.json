@@ -11433,7 +11433,7 @@
         "wpackagist-plugin/wp-elegant-testimonial": "<=1.1.6",
         "wpackagist-plugin/wp-email": "< 2.69.1.0-dev",
         "wpackagist-plugin/wp-email-capture": "<= 3.10.0.0",
-        "wpackagist-plugin/wp-email-debug": ">=1.0,<=1.1.0",
+        "wpackagist-plugin/wp-email-debug": ">= 1.0.0.0-dev <= 1.2.0.0",
         "wpackagist-plugin/wp-email-delivery": "<=1.20.11.23",
         "wpackagist-plugin/wp-email-newsletter": "<=1.1",
         "wpackagist-plugin/wp-email-template": "<=2.6.2",
