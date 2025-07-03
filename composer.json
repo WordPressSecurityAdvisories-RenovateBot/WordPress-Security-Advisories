@@ -12113,6 +12113,7 @@
         "wpackagist-plugin/wp-testimonials": "<=3.4.1",
         "wpackagist-plugin/wp-testing": "<=0.21.19",
         "wpackagist-plugin/wp-text-expander": "<=1.0.1",
+        "wpackagist-plugin/wp-thumb": "<=0.10",
         "wpackagist-plugin/wp-ticket": "< 5.13.0.0-dev",
         "wpackagist-plugin/wp-ticket-ultra": "<=1.0.5",
         "wpackagist-plugin/wp-ticketbai": "<=3.21",
