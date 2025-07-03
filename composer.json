@@ -4988,6 +4988,7 @@
         "wpackagist-plugin/import-users-to-mailchimp": "<=1.0",
         "wpackagist-plugin/import-woocommerce": "<1.1",
         "wpackagist-plugin/import-xml-feed": "<= 2.1.5.0",
+        "wpackagist-plugin/import-youtube-videos-as-wp-post": "<=2.1",
         "wpackagist-plugin/importify": "<=1.0.4",
         "wpackagist-plugin/impreza": "<=8.17.4",
         "wpackagist-plugin/improve-my-city": "<=1.6",
