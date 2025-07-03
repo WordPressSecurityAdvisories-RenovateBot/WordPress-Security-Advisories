@@ -2068,6 +2068,7 @@
         "wpackagist-plugin/codeflavors-vimeo-video-post-lite": "<= 2.3.4.2",
         "wpackagist-plugin/codehaveli-bitly-url-shortener": "<=1.4.1",
         "wpackagist-plugin/codelights-shortcodes-and-widgets": "<=1.4",
+        "wpackagist-plugin/codepen-embed-block": "<=1.1.1",
         "wpackagist-plugin/codepen-embedded-pen-shortcode": "<=1.0.2",
         "wpackagist-plugin/codepeople-post-map": "<=1.0.43",
         "wpackagist-plugin/codepile": ">=1.0.0,<=1.0.6",
