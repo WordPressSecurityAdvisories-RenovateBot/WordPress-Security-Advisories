@@ -11422,6 +11422,7 @@
         "wpackagist-plugin/wp-datepicker": "<= 2.1.4.0",
         "wpackagist-plugin/wp-db-backup": "<2.5.2",
         "wpackagist-plugin/wp-db-backup.php": "<=1.7",
+        "wpackagist-plugin/wp-db-booster": "<=1.0.1",
         "wpackagist-plugin/wp-db-table-editor": "<=1.8.4",
         "wpackagist-plugin/wp-dbmanager": "<=2.80.7",
         "wpackagist-plugin/wp-debugging": "<=2.11.7",
