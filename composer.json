@@ -7443,6 +7443,7 @@
         "wpackagist-plugin/pre-orders-for-woocommerce": "<=1.2.13",
         "wpackagist-plugin/pre-party-browser-hints": "<1.8.19",
         "wpackagist-plugin/pre-publish-checklist": "<1.1.2",
+        "wpackagist-plugin/pre-publish-post-checklist": "<=3.1",
         "wpackagist-plugin/precious-metals-chart-and-widgets": "<=1.2.8",
         "wpackagist-plugin/predict-when": "<=1.3",
         "wpackagist-plugin/predictive-search": "<=1.2.2",
