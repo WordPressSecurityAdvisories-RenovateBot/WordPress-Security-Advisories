@@ -7718,6 +7718,7 @@
         "wpackagist-plugin/quick-edit-template-link": "<=3.1.2",
         "wpackagist-plugin/quick-event-calendar": "<=1.4.9",
         "wpackagist-plugin/quick-event-manager": "< 9.7.5.0-dev",
+        "wpackagist-plugin/quick-favicon": "<=0.22.8",
         "wpackagist-plugin/quick-featured-images": "<=13.7.0",
         "wpackagist-plugin/quick-interest-slider": "<= 3.1.5.0",
         "wpackagist-plugin/quick-learn": "<=1.0.1",
