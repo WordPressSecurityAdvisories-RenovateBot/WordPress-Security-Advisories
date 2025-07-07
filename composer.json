@@ -131,7 +131,7 @@
         "wpackagist-plugin/academist-membership": "<=1.1.6",
         "wpackagist-plugin/academy": "<= 2.0.10.0",
         "wpackagist-plugin/accelerated-mobile-pages": "<= 1.1.1.0",
-        "wpackagist-plugin/accept-authorize-net-payments-using-contact-form-7": "<=2.2",
+        "wpackagist-plugin/accept-authorize-net-payments-using-contact-form-7": "<= 2.5.0.0",
         "wpackagist-plugin/accept-sagepay-payments-using-contact-form-7": "<=2.0",
         "wpackagist-plugin/accept-stripe-payments-using-contact-form-7": "<=2.5",
         "wpackagist-plugin/access-category-password": "<=1.5.1",
