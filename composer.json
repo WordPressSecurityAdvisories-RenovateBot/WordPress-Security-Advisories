@@ -12537,7 +12537,7 @@
         "wpackagist-plugin/xerte-online": "<=0.35",
         "wpackagist-plugin/xforwoocommerce": "<= 2.0.2.0",
         "wpackagist-plugin/xhanch-my-twitter": "<=2.7.6",
-        "wpackagist-plugin/xili-dictionary": "<=2.12.5",
+        "wpackagist-plugin/xili-dictionary": "<= 2.12.5.2",
         "wpackagist-plugin/xili-language": "<=2.21.2",
         "wpackagist-plugin/xili-tidy-tags": "<= 1.12.06.0",
         "wpackagist-plugin/xisearch-bar": "<=2.6",
