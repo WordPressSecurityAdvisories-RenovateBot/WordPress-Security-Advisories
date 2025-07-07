@@ -8260,6 +8260,7 @@
         "wpackagist-plugin/save-grab": "<=1.0.4",
         "wpackagist-plugin/save-import-image-from-url": "<=0.7",
         "wpackagist-plugin/sayfa-sayac": "<=2.6",
+        "wpackagist-plugin/sb-breadcrumbs": "<=1.0",
         "wpackagist-plugin/sb-chart-block": "<=1.2.6",
         "wpackagist-plugin/sb-child-list": "<=4.5",
         "wpackagist-plugin/sb-core": "<=0.2.3.2",
