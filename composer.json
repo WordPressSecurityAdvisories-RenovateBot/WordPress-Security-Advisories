@@ -10277,7 +10277,7 @@
         "wpackagist-plugin/vagonic-sortable": "<=1.9",
         "wpackagist-plugin/validar-certificados-de-cursos": "<= 1.6.2.0",
         "wpackagist-plugin/validated": "<=1.0.2",
-        "wpackagist-plugin/valvepress-rankie": "<=1.8.0",
+        "wpackagist-plugin/valvepress-rankie": "<= 1.8.2.0",
         "wpackagist-plugin/vampire-character": "<=2.13",
         "wpackagist-plugin/vanguard": "<=2.1",
         "wpackagist-plugin/variable-inspector": "<= 2.6.3.0",
