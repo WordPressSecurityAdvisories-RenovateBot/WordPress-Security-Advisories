@@ -11889,6 +11889,7 @@
         "wpackagist-plugin/wp-perfect-plugin": "<=1.8.5",
         "wpackagist-plugin/wp-performance-pack": "<= 2.5.4.0",
         "wpackagist-plugin/wp-performance-score-booster": "<=2.0",
+        "wpackagist-plugin/wp-permalink-translator": "<=1.7.6",
         "wpackagist-plugin/wp-persistent-login": "<=2.0.14",
         "wpackagist-plugin/wp-pexels-free-stock-photos": "<=1.2.2",
         "wpackagist-plugin/wp-phone-message": ">=1.1.0,<=1.1.1",
