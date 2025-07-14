@@ -8250,7 +8250,7 @@
         "wpackagist-plugin/rs-survey": "<=1.0",
         "wpackagist-plugin/rs-wp-books-showcase": "<=6.7.41",
         "wpackagist-plugin/rselements-lite": "<=1.1.5",
-        "wpackagist-plugin/rsfirewall": "<=1.1.24",
+        "wpackagist-plugin/rsfirewall": "<= 1.1.42.0",
         "wpackagist-plugin/rss-chimp": ">=1.0,<=1.2.3",
         "wpackagist-plugin/rss-control": ">=2.0.2,<=3.0.5",
         "wpackagist-plugin/rss-digest": "<=1.5",
