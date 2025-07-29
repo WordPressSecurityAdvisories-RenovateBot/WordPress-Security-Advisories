@@ -11981,7 +11981,7 @@
         "wpackagist-plugin/wp-megamenu": "<= 1.4.2.0",
         "wpackagist-plugin/wp-members": "<= 3.5.4.1",
         "wpackagist-plugin/wp-membership": "<= 1.6.2.0",
-        "wpackagist-plugin/wp-memory": "<=2.45",
+        "wpackagist-plugin/wp-memory": "<= 3.98.0.0",
         "wpackagist-plugin/wp-menu-cart": "<=2.11.0",
         "wpackagist-plugin/wp-menu-image": "<=2.2",
         "wpackagist-plugin/wp-mermaid": "<=1.0.2",
