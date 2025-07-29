@@ -6974,7 +6974,7 @@
         "wpackagist-plugin/order-attachments-for-woocommerce": "<= 2.5.1.0",
         "wpackagist-plugin/order-audit-log-for-woocommerce": "<=2.0",
         "wpackagist-plugin/order-auto-complete-for-woocommerce": "<=1.2.0",
-        "wpackagist-plugin/order-delivery-date": "< 12.4.0.0-dev",
+        "wpackagist-plugin/order-delivery-date": "< 12.6.0.0-dev",
         "wpackagist-plugin/order-delivery-date-for-woocommerce": "<= 3.21.0.0",
         "wpackagist-plugin/order-delivery-pickup-location-date-time-free-version": "<=1.1.0",
         "wpackagist-plugin/order-export-and-more-for-woocommerce": "<= 3.24.0.0",
