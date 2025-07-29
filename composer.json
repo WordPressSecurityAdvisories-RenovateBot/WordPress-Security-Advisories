@@ -13603,7 +13603,7 @@
         "wpackagist-theme/method": "<=2.1",
         "wpackagist-theme/metro-magazine": "<=1.3.7",
         "wpackagist-theme/metrostore": "<=1.5.1",
-        "wpackagist-theme/minimog": "<=3.7.0",
+        "wpackagist-theme/minimog": "<= 3.9.0.0",
         "wpackagist-theme/minus": "<2.0.0",
         "wpackagist-theme/mocho-blog": "<=1.0.4",
         "wpackagist-theme/modern": "<=1.4.1",
