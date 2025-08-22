@@ -6,6 +6,9 @@
     "keywords": [
         "dev"
     ],
+    "replace": {
+        "phpwatch/wordpress-security-advisories": "self.version"
+    },
     "support": {
         "source": "https://github.com/letraceursnork/wordpress-security-advisories",
         "docs": "https://php.watch/articles/WordPress-Security-Advisories"
