@@ -12152,6 +12152,7 @@
         "wpackagist-plugin/wp-custom-widget-area": "<=1.2.5",
         "wpackagist-plugin/wp-customer-reviews": "<=3.7.0",
         "wpackagist-plugin/wp-customize-login-page": "<=1.6.5",
+        "wpackagist-plugin/wp-cycle-text-announcement": "<=8.1",
         "wpackagist-plugin/wp-cyr-cho": "<=0.1",
         "wpackagist-plugin/wp-d3": "<=2.4.1",
         "wpackagist-plugin/wp-dark-mode": "<= 5.0.4.0",
