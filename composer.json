@@ -6697,6 +6697,7 @@
         "wpackagist-plugin/mobile-menu": "<=2.8.4.4",
         "wpackagist-plugin/mobile-navigation": "<=1.5",
         "wpackagist-plugin/mobile-pages": "<= 1.0.2.0",
+        "wpackagist-plugin/mobile-site-redirect": "<=1.2.1",
         "wpackagist-plugin/mobile-smart": "<=v1.3.16",
         "wpackagist-plugin/mobilechief-mobile-site-creator": "<=1.5.7",
         "wpackagist-plugin/mobilize": "<=3.0.7",
