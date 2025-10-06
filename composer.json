@@ -6511,7 +6511,7 @@
         "wpackagist-plugin/meks-audio-player": "<=1.2",
         "wpackagist-plugin/meks-easy-ads-widget": "<=2.0.8",
         "wpackagist-plugin/meks-easy-instagram-widget": "<= 1.2.7.0",
-        "wpackagist-plugin/meks-easy-maps": "<=2.1.3",
+        "wpackagist-plugin/meks-easy-maps": "<= 2.1.4.0",
         "wpackagist-plugin/meks-easy-social-share": "<=1.2.7",
         "wpackagist-plugin/meks-flexible-shortcodes": "<= 1.3.7.0",
         "wpackagist-plugin/meks-simple-flickr-widget": "<=1.2",
