@@ -2281,6 +2281,7 @@
         "wpackagist-plugin/comment-guestbook": "<=0.8.0",
         "wpackagist-plugin/comment-highlighter": "<=0.13",
         "wpackagist-plugin/comment-images-reloaded": "<=2.2.1",
+        "wpackagist-plugin/comment-info-detector": "<=1.0.5",
         "wpackagist-plugin/comment-license": "<1.4.0",
         "wpackagist-plugin/comment-link-remove": "<=2.1.4",
         "wpackagist-plugin/comment-press": "<2.7.2",
