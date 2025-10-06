@@ -12909,7 +12909,7 @@
         "wpackagist-plugin/wp-strava": "<=2.12.1",
         "wpackagist-plugin/wp-stripe-checkout": "<= 1.2.2.41",
         "wpackagist-plugin/wp-stripe-donation": "<= 3.2.3.0",
-        "wpackagist-plugin/wp-structured-data-schema": ">=3.5.0,<=4.0.2",
+        "wpackagist-plugin/wp-structured-data-schema": "<= 4.3.2.0",
         "wpackagist-plugin/wp-structuring-markup": "<=4.8.1",
         "wpackagist-plugin/wp-subscribe": "<=1.2.12",
         "wpackagist-plugin/wp-subscription-forms": "<=1.2.4",
