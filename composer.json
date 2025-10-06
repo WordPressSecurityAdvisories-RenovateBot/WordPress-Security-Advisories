@@ -867,6 +867,7 @@
         "wpackagist-plugin/apptha-banner": "*",
         "wpackagist-plugin/apptha-slider-gallery": "*",
         "wpackagist-plugin/apptivo-business-site": "<= 5.3.0.0",
+        "wpackagist-plugin/appy-pie-connect-for-woocommerce": "<=1.1.2",
         "wpackagist-plugin/april-framework": "<=5.1",
         "wpackagist-plugin/aprils-call-posts": "<=2.1.1",
         "wpackagist-plugin/aprils-super-functions-pack": "<=1.4.7",
