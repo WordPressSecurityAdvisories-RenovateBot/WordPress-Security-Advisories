@@ -9501,7 +9501,7 @@
         "wpackagist-plugin/sku-for-woocommerce": "<=1.6.2",
         "wpackagist-plugin/sky-elementor-addons": "<= 3.1.4.0",
         "wpackagist-plugin/sky-login-redirect": "<=3.7.2",
-        "wpackagist-plugin/skyboot-portfolio-gallery": "<=1.0.3",
+        "wpackagist-plugin/skyboot-portfolio-gallery": "<= 1.0.5.0",
         "wpackagist-plugin/skype-online-status": "<=3.1",
         "wpackagist-plugin/skysa-official": "<=1.03",
         "wpackagist-plugin/skyword-plugin": "<= 2.5.3.0",
