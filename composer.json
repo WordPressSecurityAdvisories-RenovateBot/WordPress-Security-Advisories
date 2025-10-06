@@ -10416,6 +10416,7 @@
         "wpackagist-plugin/tickera-event-ticketing-system": "<= 3.5.5.6",
         "wpackagist-plugin/ticket-help-desk-system-lite": "<=4.5.2",
         "wpackagist-plugin/ticket-manager": "*",
+        "wpackagist-plugin/ticket-spot": "<=1.0.2",
         "wpackagist-plugin/ticket-tailor": "<=1.10",
         "wpackagist-plugin/ticketsource-events": "<=3.0.2",
         "wpackagist-plugin/tida-url-screenshot": "<= 1.0.1.0",
