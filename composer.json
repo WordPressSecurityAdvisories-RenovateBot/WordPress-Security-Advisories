@@ -6780,6 +6780,7 @@
         "wpackagist-plugin/mp3-music-player-by-sonaar": "<= 5.9.4.0",
         "wpackagist-plugin/mpl-publisher": "<= 2.18.0.0",
         "wpackagist-plugin/mpoperationlogs": "<=1.0.1",
+        "wpackagist-plugin/mpwizard": "<=1.2.1",
         "wpackagist-plugin/mq-woocommerce-products-price-bulk-edit": "<=2.0",
         "wpackagist-plugin/mrkv-vchasno-kasa": "<=1.0.3",
         "wpackagist-plugin/mrkwp-footer-for-divi": ">=3.3.2,<=3.3.5",
