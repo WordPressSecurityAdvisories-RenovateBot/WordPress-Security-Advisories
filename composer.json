@@ -5071,7 +5071,7 @@
         "wpackagist-plugin/guest-author": "<=2.3",
         "wpackagist-plugin/guest-author-affiliate": "1.1.4",
         "wpackagist-plugin/guest-author-name": "<= 4.36.0.0",
-        "wpackagist-plugin/guest-support": "<=1.2.2",
+        "wpackagist-plugin/guest-support": "<= 1.2.3.0",
         "wpackagist-plugin/guestofy-restaurant-reservations": "<=2.2.4",
         "wpackagist-plugin/guild-armory-roster": "<=0.5.5",
         "wpackagist-plugin/guitar-tuner": "<=4.2.2",
