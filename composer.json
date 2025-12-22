@@ -11662,7 +11662,7 @@
         "wpackagist-plugin/website-toolbox-forums": "<=2.0.1",
         "wpackagist-plugin/webtexttool": "<= 3.6.2.0",
         "wpackagist-plugin/webtoffee-gdpr-cookie-consent": "<=2.6.0",
-        "wpackagist-plugin/webtoffee-product-feed": "<=2.2.8",
+        "wpackagist-plugin/webtoffee-product-feed": "<= 2.3.1.0",
         "wpackagist-plugin/webwinkelkeur": "<3.25",
         "wpackagist-plugin/wecantrack": "<= 2.0.0.0",
         "wpackagist-plugin/wechat-broadcast": "<=1.2.0",
