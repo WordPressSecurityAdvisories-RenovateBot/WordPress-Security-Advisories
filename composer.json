@@ -1486,6 +1486,7 @@
         "wpackagist-plugin/bmi-calculator-shortcode": "<=1.0.3",
         "wpackagist-plugin/bmlt-meeting-map": "<=2.6.1",
         "wpackagist-plugin/bmlt-tabbed-map": "<=1.1.8",
+        "wpackagist-plugin/bmlt-wordpress-satellite-plugin": "<=3.11.4",
         "wpackagist-plugin/bmo-expo": "<=1.0.15",
         "wpackagist-plugin/bne-gallery-extended": "<=1.2.1",
         "wpackagist-plugin/bne-testimonials": "<2.0.8",
