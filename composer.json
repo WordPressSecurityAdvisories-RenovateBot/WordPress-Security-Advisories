@@ -10104,7 +10104,7 @@
         "wpackagist-plugin/show-me-the-cookies": "<=1.0",
         "wpackagist-plugin/show-notice-or-message-on-admin-area": "<=2.0",
         "wpackagist-plugin/show-pages-list": "<=1.2.0",
-        "wpackagist-plugin/show-posts": "<=1.6",
+        "wpackagist-plugin/show-posts": "<= 1.8.1.0",
         "wpackagist-plugin/show-visitor-ip-address": "<=0.2",
         "wpackagist-plugin/show-website-content-in-wordpress-page-or-post": "<=2024.03.27",
         "wpackagist-plugin/show-youtube-video": "<=1.1",
