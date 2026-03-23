@@ -16433,6 +16433,7 @@
         "wpackagist-theme/scv1": "*",
         "wpackagist-theme/scylla-lite": "<=1.8.3",
         "wpackagist-theme/search-and-go": "<= 2.8.0.0",
+        "wpackagist-theme/searchgo": "<=2.8",
         "wpackagist-theme/seil": "<=1.7.1",
         "wpackagist-theme/selio": "<=1.1",
         "wpackagist-theme/sensible-wp": "<=1.3.1",
