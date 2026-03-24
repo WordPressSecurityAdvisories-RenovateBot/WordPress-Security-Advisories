@@ -2877,6 +2877,7 @@
         "wpackagist-plugin/crossword-compiler-puzzles": "<= 5.4.0.0",
         "wpackagist-plugin/crowdfunding-for-woocommerce": "<= 3.1.14.0",
         "wpackagist-plugin/crowdsignal-forms": "<=1.7.2",
+        "wpackagist-plugin/crpaid-link-manager": "<=0.5",
         "wpackagist-plugin/crudlab-facebook-like-box": "<=2.0.9",
         "wpackagist-plugin/crudlab-google-plus": "<=1.0.2",
         "wpackagist-plugin/crudlab-scroll-to-top": "<=1.0.1",
