@@ -8682,6 +8682,7 @@
         "wpackagist-plugin/post-slides": "<=1.0.1",
         "wpackagist-plugin/post-smtp": "<= 3.6.1.0",
         "wpackagist-plugin/post-snippets": "<= 4.0.11.0",
+        "wpackagist-plugin/post-snippits": "<=1.0",
         "wpackagist-plugin/post-state-tags": "<=2.0.6",
         "wpackagist-plugin/post-status-notifier": "<=1.11.6",
         "wpackagist-plugin/post-status-notifier-lite": "<= 1.11.6.0",
