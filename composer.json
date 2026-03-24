@@ -3712,7 +3712,7 @@
         "wpackagist-plugin/easy-hotel": "<= 1.8.4.0",
         "wpackagist-plugin/easy-image-collage": "<=1.13.5",
         "wpackagist-plugin/easy-image-display": "<=1.2.5",
-        "wpackagist-plugin/easy-image-gallery": "<=1.5.2",
+        "wpackagist-plugin/easy-image-gallery": "<= 1.5.3.0",
         "wpackagist-plugin/easy-invoice": "<=2.1.4",
         "wpackagist-plugin/easy-jump-links-menus": "<=1.0.0",
         "wpackagist-plugin/easy-justified-gallery": "<=1.1",
