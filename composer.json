@@ -7685,6 +7685,7 @@
         "wpackagist-plugin/neon-channel-product-customizer-free": "<=2.0",
         "wpackagist-plugin/neon-product-designer-for-woocommerce": "<=2.1.1",
         "wpackagist-plugin/neon-text": "<=1.1",
+        "wpackagist-plugin/neos-connector-for-fakturama": "<=0.0.14",
         "wpackagist-plugin/nepali-date-converter": "<=2.0.8",
         "wpackagist-plugin/nepali-date-utilities": "<=1.0.13",
         "wpackagist-plugin/nepali-post-date": "<=5.1.1",
