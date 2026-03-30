@@ -2137,6 +2137,7 @@
         "wpackagist-plugin/cf7-hubspot": "<= 1.4.3.0",
         "wpackagist-plugin/cf7-invisible-recaptcha": "<= 1.3.3.0",
         "wpackagist-plugin/cf7-live-preview": "<=1.2.0",
+        "wpackagist-plugin/cf7-mailchimp": "<=1.2.2",
         "wpackagist-plugin/cf7-mailchimp-addon": "< 2.4.0.0-dev",
         "wpackagist-plugin/cf7-manual-spam-blocker": "<=2.0.4",
         "wpackagist-plugin/cf7-material-design": "<=1.0.0",
