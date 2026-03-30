@@ -16438,7 +16438,7 @@
         "wpackagist-theme/savory": "<=2.5",
         "wpackagist-theme/savoy": "<=3.0.8",
         "wpackagist-theme/saxon": "<=1.9.3",
-        "wpackagist-theme/scape": "<=1.5.13",
+        "wpackagist-theme/scape": "< 1.5.16.0-dev",
         "wpackagist-theme/scarlet": "*",
         "wpackagist-theme/schema-lite": "<=1.2.2",
         "wpackagist-theme/scientia": "<=1.2.4",
