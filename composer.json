@@ -4404,7 +4404,7 @@
         "wpackagist-plugin/fantastic-elasticsearch": "<=4.1.0",
         "wpackagist-plugin/fapi-member": "<=2.2.29",
         "wpackagist-plugin/faq-and-answers": "<=1.1.0",
-        "wpackagist-plugin/faq-builder-ays": "<= 1.7.3.0",
+        "wpackagist-plugin/faq-builder-ays": "<= 1.8.2.0",
         "wpackagist-plugin/faq-for-woocommerce": "<=1.7.0",
         "wpackagist-plugin/faq-manager-with-structured-data": ">=4.0.0,<=5.4.3",
         "wpackagist-plugin/faq-schema-block-to-accordion": "<=1.0.6",
