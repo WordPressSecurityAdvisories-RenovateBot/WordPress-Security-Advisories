@@ -14298,7 +14298,7 @@
         "wpackagist-plugin/wp-team-showcase-and-slider": "<=2.6",
         "wpackagist-plugin/wp-tell-a-friend-popup-form": "<=7.1",
         "wpackagist-plugin/wp-term-order": "<=2.1.0",
-        "wpackagist-plugin/wp-terms-popup": "<=2.6.0",
+        "wpackagist-plugin/wp-terms-popup": "<= 2.10.0.0",
         "wpackagist-plugin/wp-tesseract": "<=1.0.2",
         "wpackagist-plugin/wp-test-email": "<= 1.1.8.0",
         "wpackagist-plugin/wp-testimonial-widget": "<=3.1",
