@@ -16250,7 +16250,7 @@
         "wpackagist-theme/phlox-pro": "<=5.16.4",
         "wpackagist-theme/photobox": "<=2.0.1",
         "wpackagist-theme/photocrati-theme": "*",
-        "wpackagist-theme/photography": "< 7.7.5.0-dev",
+        "wpackagist-theme/photography": "<= 7.7.5.0",
         "wpackagist-theme/photolia": "<=1.0.3",
         "wpackagist-theme/photolio": "*",
         "wpackagist-theme/photology": "<=1.1.3",
