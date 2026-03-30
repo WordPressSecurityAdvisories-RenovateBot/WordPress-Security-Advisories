@@ -5450,6 +5450,7 @@
         "wpackagist-plugin/hackrepair-plugin-archiver": "<=2.0.4",
         "wpackagist-plugin/hal": "<=2.1.1",
         "wpackagist-plugin/halfdata-optin-downloads": "<=4.07",
+        "wpackagist-plugin/halfdata-paypal-green-downloads": "<=2.08",
         "wpackagist-plugin/hamburger-icon-menu-lite": "<=1.0",
         "wpackagist-plugin/hammas-calendar": "<=1.5.11",
         "wpackagist-plugin/hana-flv-player": "<=3.1.3",
