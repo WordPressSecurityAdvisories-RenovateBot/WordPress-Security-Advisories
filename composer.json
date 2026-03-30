@@ -11754,6 +11754,7 @@
         "wpackagist-plugin/tweetscribe": "<=1.1",
         "wpackagist-plugin/tweetscroll-widget": "<=1.3.7",
         "wpackagist-plugin/tweetthis-shortcode": "<=1.8.0",
+        "wpackagist-plugin/twentig": "<=1.9.7",
         "wpackagist-plugin/twenty20": "<= 1.5.9.0 || == 1.6.2.0 || == 1.6.3.0",
         "wpackagist-plugin/twentytwenty": "<=1.0.1",
         "wpackagist-plugin/twigify": "<=1.1.2",
