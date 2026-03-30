@@ -1295,7 +1295,7 @@
         "wpackagist-plugin/baidu-tongji-generator": "<=1.0.2",
         "wpackagist-plugin/baiduseo": "<= 2.1.4.0",
         "wpackagist-plugin/baidushare-wp": "<=1.0.6",
-        "wpackagist-plugin/bakkbone-florist-companion": "<=7.3.0",
+        "wpackagist-plugin/bakkbone-florist-companion": "<= 7.8.2.0",
         "wpackagist-plugin/bamazoo-button-generator": "<=1.0",
         "wpackagist-plugin/bamboo-columns": "<=1.6.1",
         "wpackagist-plugin/bamboo-enquiries": "<=1.9.3",
