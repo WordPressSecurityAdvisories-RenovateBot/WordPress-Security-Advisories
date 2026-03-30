@@ -16393,7 +16393,7 @@
         "wpackagist-theme/rife-free": "<=2.4.19",
         "wpackagist-theme/rightnow": "*",
         "wpackagist-theme/rightway": "<=4.0",
-        "wpackagist-theme/riode": "<=1.6.23",
+        "wpackagist-theme/riode": "< 1.6.29.0-dev",
         "wpackagist-theme/ripple": "<=1.2.1",
         "wpackagist-theme/rise": "<2.0.0",
         "wpackagist-theme/road-fighter": "<=1.3.5",
