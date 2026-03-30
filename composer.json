@@ -12727,6 +12727,7 @@
         "wpackagist-plugin/woo-custom-checkout-fields": "<=0.1",
         "wpackagist-plugin/woo-custom-emails": "<=2.2",
         "wpackagist-plugin/woo-custom-product-addons": "<=3.1.0",
+        "wpackagist-plugin/woo-custom-product-addons-pro": "<=5.4.1",
         "wpackagist-plugin/woo-custom-profile-picture": "<=1.0",
         "wpackagist-plugin/woo-customers-manager": "<=1.1.14",
         "wpackagist-plugin/woo-customers-order-history": "<=5.2.2",
