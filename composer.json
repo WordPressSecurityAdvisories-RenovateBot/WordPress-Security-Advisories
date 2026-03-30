@@ -13561,7 +13561,7 @@
         "wpackagist-plugin/wp-facebook-feed": "<=2.2.5",
         "wpackagist-plugin/wp-facebook-group": ">=1.0.0,<=1.0.8",
         "wpackagist-plugin/wp-facebook-messenger": "<=1.0",
-        "wpackagist-plugin/wp-facebook-reviews": "<= 12.8.0.0",
+        "wpackagist-plugin/wp-facebook-reviews": "<= 13.9.0.0",
         "wpackagist-plugin/wp-facethumb": "<=1.0",
         "wpackagist-plugin/wp-fade-in-text-news": "<=12.0",
         "wpackagist-plugin/wp-fail2ban": "<4.0.5",
