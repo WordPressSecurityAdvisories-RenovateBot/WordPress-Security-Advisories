@@ -9734,6 +9734,7 @@
         "wpackagist-plugin/sb-elementor-contact-form-db": "<=1.7",
         "wpackagist-plugin/sb-random-posts-widget": "<=1.0",
         "wpackagist-plugin/sb-uploader": "<=4.8",
+        "wpackagist-plugin/sb-woocommerce-infinite-scroll": "<=1.6.2",
         "wpackagist-plugin/sc-simple-zazzle": "<=1.1.6",
         "wpackagist-plugin/scalable-vector-graphics-svg": "<=3.4",
         "wpackagist-plugin/scalenut": "<=1.1.3",
