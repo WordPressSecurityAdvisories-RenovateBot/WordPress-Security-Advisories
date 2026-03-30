@@ -2532,7 +2532,7 @@
         "wpackagist-plugin/conditional-checkout-fields-for-woocommerce": "<= 1.2.3.0",
         "wpackagist-plugin/conditional-extra-fees-for-woocommerce": "<=1.0.96",
         "wpackagist-plugin/conditional-logic-for-woo-product-add-ons": ">=1.0.0,<=1.2.0",
-        "wpackagist-plugin/conditional-menus": "<=1.2.0",
+        "wpackagist-plugin/conditional-menus": "<= 1.2.6.0",
         "wpackagist-plugin/conditional-payment-methods-for-woocommerce": "<=1.0",
         "wpackagist-plugin/conditional-payments": ">=1.1.0,<=1.1.2",
         "wpackagist-plugin/conditional-payments-for-woocommerce": "<= 3.3.0.0",
