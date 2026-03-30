@@ -8419,6 +8419,7 @@
         "wpackagist-plugin/photostack-gallery": "<=0.4.1",
         "wpackagist-plugin/photoswipe-masonry": "<=1.2.14",
         "wpackagist-plugin/photoxhibit": "<=2.1.8",
+        "wpackagist-plugin/phox-host": "<=2.0.8",
         "wpackagist-plugin/php-compatibility-checker": "<=1.5.2",
         "wpackagist-plugin/php-event-calendar": "<1.5.1",
         "wpackagist-plugin/php-everywhere": "<=2.0.3",
