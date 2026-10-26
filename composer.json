@@ -243,6 +243,7 @@
         "wpackagist-plugin/activecampaign-subscription-forms": "<= 8.1.16.0",
         "wpackagist-plugin/activedemand": "<= 0.2.46.0",
         "wpackagist-plugin/activehelper-livehelp": "<3.1.5",
+        "wpackagist-plugin/activetrail-for-woocommerce": "<=1.2.6",
         "wpackagist-plugin/activity-link-preview-for-buddypress": "<=1.4.4",
         "wpackagist-plugin/activity-log-mainwp": "<=1.7.1",
         "wpackagist-plugin/activity-reactions-for-buddypress": "<=1.0.22",
