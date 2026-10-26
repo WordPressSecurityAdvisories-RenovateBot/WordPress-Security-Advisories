@@ -12858,6 +12858,7 @@
         "wpackagist-plugin/uk-address-postcode-validation": "<=3.9.2",
         "wpackagist-plugin/uk-cookie": "<=1.1",
         "wpackagist-plugin/uk-cookie-consent": "<= 3.2.0.0",
+        "wpackagist-plugin/ukr-to-lat": "<=1.3.5",
         "wpackagist-plugin/ukrainian-currency": "<=2.0",
         "wpackagist-plugin/ukuupeople-the-simple-crm": "<=1.6.3",
         "wpackagist-plugin/uleak-security-dashboard": "<=1.2.3",
