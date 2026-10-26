@@ -2787,6 +2787,7 @@
         "wpackagist-plugin/contact-form-7-recaptcha": "<=1.2.0",
         "wpackagist-plugin/contact-form-7-round-robin-lead-distribution": "<=1.2.1",
         "wpackagist-plugin/contact-form-7-select-box-editor-button": "<=0.6",
+        "wpackagist-plugin/contact-form-7-signature-addon": "<=4.2.2",
         "wpackagist-plugin/contact-form-7-simple-recaptcha": "<=0.1.1 || >=0.1.7,<=0.1.8",
         "wpackagist-plugin/contact-form-7-skins": "<= 2.5.0.0",
         "wpackagist-plugin/contact-form-7-sms-addon": "< 2.4.1.0-dev",
