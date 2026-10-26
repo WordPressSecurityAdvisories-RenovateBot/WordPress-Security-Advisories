@@ -3527,7 +3527,7 @@
         "wpackagist-plugin/deny-all-firewall": "<=1.1.6",
         "wpackagist-plugin/depart-deposit-and-part-payment-for-woo": "<=1.0.7",
         "wpackagist-plugin/depay-payments-for-woocommerce": "<=2.12.17",
-        "wpackagist-plugin/depicter": "<= 4.8.0.0",
+        "wpackagist-plugin/depicter": "<= 4.8.1.0",
         "wpackagist-plugin/design-approval-system": "<=3.6",
         "wpackagist-plugin/design-import-export": "<=2.2",
         "wpackagist-plugin/design-scuole-wordpress-theme": ">=1.0,<=2.18.2",
