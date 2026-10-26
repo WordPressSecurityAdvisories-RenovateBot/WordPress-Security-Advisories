@@ -13959,7 +13959,7 @@
         "wpackagist-plugin/woo-razorpay": "<= 4.8.7.0",
         "wpackagist-plugin/woo-recargo-de-equivalencia": "<=1.6.24",
         "wpackagist-plugin/woo-recent-purchases": "<=1.0.1",
-        "wpackagist-plugin/woo-rede": "<= 5.4.6.0",
+        "wpackagist-plugin/woo-rede": "<= 5.5.2.0",
         "wpackagist-plugin/woo-redsys-gateway-light": "<= 7.0.1.0",
         "wpackagist-plugin/woo-refund-and-exchange-lite": "<= 4.6.4.0",
         "wpackagist-plugin/woo-related-products-refresh-on-reload": "<=3.3.15",
