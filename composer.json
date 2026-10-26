@@ -13805,6 +13805,7 @@
         "wpackagist-plugin/woo-alidropship": "<= 2.2.4.0",
         "wpackagist-plugin/woo-aliexpress-dropshipping": "<=2.1.1",
         "wpackagist-plugin/woo-altcoin-payment-gateway": "<= 1.7.6.0",
+        "wpackagist-plugin/woo-asaas": "<2.7.8",
         "wpackagist-plugin/woo-audio-preview": "<1.4.0",
         "wpackagist-plugin/woo-authorize-net-gateway-aim": ">=5.0.0,<=6.0.3",
         "wpackagist-plugin/woo-auto-coupons": "<=3.0.14",
