@@ -2617,7 +2617,7 @@
         "wpackagist-plugin/codehaveli-bitly-url-shortener": "<=1.4.1",
         "wpackagist-plugin/codeless-page-builder": "<=1.1.4",
         "wpackagist-plugin/codelights-shortcodes-and-widgets": "<=1.4",
-        "wpackagist-plugin/codemonkeys-hipaa-forms": "<=3.1.0",
+        "wpackagist-plugin/codemonkeys-hipaa-forms": "< 3.3.2.0-dev",
         "wpackagist-plugin/codepen-embed-block": "<= 1.2.0.0",
         "wpackagist-plugin/codepen-embedded-pen-shortcode": "<=1.0.2",
         "wpackagist-plugin/codepeople-post-map": "<= 1.2.6.0",
