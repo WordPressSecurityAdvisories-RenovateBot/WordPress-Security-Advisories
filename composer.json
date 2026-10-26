@@ -4736,7 +4736,7 @@
         "wpackagist-plugin/fancy-box": "<=1.0.1",
         "wpackagist-plugin/fancy-cats": "<=1.1",
         "wpackagist-plugin/fancy-elementor-flipbox": "<=2.5.1",
-        "wpackagist-plugin/fancy-facebook-comments": "<=1.2.14",
+        "wpackagist-plugin/fancy-facebook-comments": "<= 1.2.21.0",
         "wpackagist-plugin/fancy-gallery": "<= 1.6.58.0",
         "wpackagist-plugin/fancy-image-show": "<=9.1",
         "wpackagist-plugin/fancy-product-designer": "<= 6.5.2.0",
