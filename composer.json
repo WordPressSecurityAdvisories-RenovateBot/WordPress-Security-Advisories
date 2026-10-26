@@ -8032,7 +8032,7 @@
         "wpackagist-plugin/mollie-forms": "<= 2.11.0.0",
         "wpackagist-plugin/mollie-payments-for-woocommerce": "<= 8.1.1.0",
         "wpackagist-plugin/molongui-authorship": "<= 5.2.12.0",
-        "wpackagist-plugin/moloni": "<=4.7.4",
+        "wpackagist-plugin/moloni": "<= 5.0.13.0",
         "wpackagist-plugin/momo-venmo": "<=4.1",
         "wpackagist-plugin/momoyoga-integration": "<= 2.9.0.0",
         "wpackagist-plugin/monarch": "<=1.2.6",
