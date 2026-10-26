@@ -17964,7 +17964,7 @@
         "wpackagist-theme/sapa": "<=1.1.14",
         "wpackagist-theme/sarada-lite": "<=1.1.2",
         "wpackagist-theme/satoshi": "<=2.0",
-        "wpackagist-theme/save-life": "<=1.2.13",
+        "wpackagist-theme/save-life": "<= 1.2.14.0",
         "wpackagist-theme/saveo": "<=1.1.2",
         "wpackagist-theme/savory": "<=2.5",
         "wpackagist-theme/savoy": "<=3.0.8",
