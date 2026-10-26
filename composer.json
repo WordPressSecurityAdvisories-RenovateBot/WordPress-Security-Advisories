@@ -7684,7 +7684,7 @@
         "wpackagist-plugin/maxupload-upload-larger-files-easily": "<=1.4.0",
         "wpackagist-plugin/mayosis-core": "<= 5.4.7.0",
         "wpackagist-plugin/maz-loader": "<= 1.4.0.0",
-        "wpackagist-plugin/mb-custom-post-type": "<=2.7.6",
+        "wpackagist-plugin/mb-custom-post-type": "<= 2.12.1.0",
         "wpackagist-plugin/mb-frontend-submission": "<=4.6.0",
         "wpackagist-plugin/mb-user-profile": "<=2.5.16",
         "wpackagist-plugin/mcatfilter": "<=0.5.2",
