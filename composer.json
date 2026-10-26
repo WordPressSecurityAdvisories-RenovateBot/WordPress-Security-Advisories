@@ -9693,7 +9693,7 @@
         "wpackagist-plugin/product-websites-showcase": "<=1.0",
         "wpackagist-plugin/product-xml-feeds-for-woocommerce": "< 3.1.1.0-dev",
         "wpackagist-plugin/productdyno": "<=1.0.24",
-        "wpackagist-plugin/productive-commerce": "<=1.1.22",
+        "wpackagist-plugin/productive-commerce": "<= 1.1.48.0",
         "wpackagist-plugin/productive-style": "<=1.1.23",
         "wpackagist-plugin/products-compare-for-woocommerce": "<=3.5.7.7",
         "wpackagist-plugin/products-file-upload-for-woocommerce": "<=2.2.4",
