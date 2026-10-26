@@ -13984,6 +13984,7 @@
         "wpackagist-plugin/woo-stripe-payment": "<= 4.0.17.0",
         "wpackagist-plugin/woo-suggestion-engine": "<=2.0.11",
         "wpackagist-plugin/woo-superb-slideshow-transition-gallery-with-random-effect": "<=9.1",
+        "wpackagist-plugin/woo-swish-e-commerce": "<=3.7.8",
         "wpackagist-plugin/woo-tbc-payment-gateway": "<=2.0.0",
         "wpackagist-plugin/woo-thank-you-page-customizer": "<= 1.2.3.0",
         "wpackagist-plugin/woo-thank-you-page-nextmove-lite": "<= 2.23.0.0",
