@@ -11030,6 +11030,7 @@
         "wpackagist-plugin/sigmize": "<=0.0.9",
         "wpackagist-plugin/sign-in-with-google": "<=1.8.0",
         "wpackagist-plugin/sign-up-sheets": "<= 2.3.3.0",
+        "wpackagist-plugin/signature-fluent-contract-forms-add-on": "<=2.0.5",
         "wpackagist-plugin/signup-page": "<=1.0",
         "wpackagist-plugin/signup-signin": "<=1.0.0",
         "wpackagist-plugin/sikshya": "<=0.0.21",
