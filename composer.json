@@ -1472,6 +1472,7 @@
         "wpackagist-plugin/bcs-bertline-book-importer": "<=1.5.7",
         "wpackagist-plugin/bcs-mcp-manager": "<=1.2.3",
         "wpackagist-plugin/bd-courier-order-ratio-checker": "<=2.0.1",
+        "wpackagist-plugin/bdm-digital-payment-gateway": ">=1.2.7,<=1.3.12",
         "wpackagist-plugin/bdthemes-element-pack": "<= 9.0.6.0",
         "wpackagist-plugin/bdthemes-element-pack-lite": "<= 8.8.8.0",
         "wpackagist-plugin/bdthemes-prime-slider-lite": "<= 4.7.1.0",
