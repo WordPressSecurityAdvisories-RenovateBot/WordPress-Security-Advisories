@@ -6586,7 +6586,7 @@
         "wpackagist-plugin/ipblocklist": "<=1.0",
         "wpackagist-plugin/ipgp-visitors-origin": "<1.6",
         "wpackagist-plugin/iphone-webclip-manager": "<=0.5",
-        "wpackagist-plugin/ipospays-gateways-wc": "<=1.3.7",
+        "wpackagist-plugin/ipospays-gateways-wc": "<= 1.4.6.0",
         "wpackagist-plugin/ipushpull": "<=2.3.2",
         "wpackagist-plugin/iq-block-country": "<= 1.2.18.0",
         "wpackagist-plugin/iq-quotation-page": "<=1.3.4",
