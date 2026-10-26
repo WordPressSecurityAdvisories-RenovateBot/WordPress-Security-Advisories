@@ -10932,7 +10932,7 @@
         "wpackagist-plugin/shopengine": "<= 4.9.5.0",
         "wpackagist-plugin/shopify-plugin": "<=1.0.0",
         "wpackagist-plugin/shopkeeper-extender": "< 7.0.0.0-dev",
-        "wpackagist-plugin/shopmagic-for-woocommerce": "<= 4.9.0.0",
+        "wpackagist-plugin/shopmagic-for-woocommerce": "<= 4.9.1.0",
         "wpackagist-plugin/shopmonitorio": "<1.2.0",
         "wpackagist-plugin/shopp": "<=1.4",
         "wpackagist-plugin/shopp-arrange": "<=1.1.3",
