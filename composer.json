@@ -12495,7 +12495,7 @@
         "wpackagist-plugin/thumbnail-for-excerpts": "<=2.1",
         "wpackagist-plugin/thumbnail-grid": "<=6.8",
         "wpackagist-plugin/thumbs-rating": "<= 5.1.0.0",
-        "wpackagist-plugin/ti-woocommerce-wishlist": "<= 2.10.0.0",
+        "wpackagist-plugin/ti-woocommerce-wishlist": "<= 2.12.0.0",
         "wpackagist-plugin/ti-woocommerce-wishlist-premium": "< 1.40.1.0-dev",
         "wpackagist-plugin/tiare-membership": "<=1.2",
         "wpackagist-plugin/ticker-ultimate": "<=1.5.5 || 1.7.6",
