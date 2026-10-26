@@ -12145,6 +12145,7 @@
         "wpackagist-plugin/syncee-for-suppliers": "<=1.0.5",
         "wpackagist-plugin/syncee-global-dropshipping": "<= 1.0.27.0",
         "wpackagist-plugin/syncfields": "< 4.1.0.0-dev",
+        "wpackagist-plugin/synchrony-payments": ">=1.0.5,<=1.1.1",
         "wpackagist-plugin/syndicate-out": "<=0.9",
         "wpackagist-plugin/syndication-links": "<1.3",
         "wpackagist-plugin/synergy-project-manager": "<=1.5",
