@@ -2639,6 +2639,7 @@
         "wpackagist-plugin/coinbase-commerce-for-contact-form-7": "<= 1.1.2.0",
         "wpackagist-plugin/coinpayments-payment-gateway-for-woocommerce": "<=1.0.17",
         "wpackagist-plugin/coins-marketcap": "<=5.5.8",
+        "wpackagist-plugin/coinsnap-bitcoin-crowdfunding": "<=1.2.0",
         "wpackagist-plugin/colibri-page-builder": "<= 1.0.390.0",
         "wpackagist-plugin/colissimo-shipping-methods-for-woocommerce": "<= 2.10.0.0",
         "wpackagist-plugin/collage-for-divi": "1.0.1",
