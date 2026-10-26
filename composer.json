@@ -6141,6 +6141,7 @@
         "wpackagist-plugin/http-headers": "<= 1.19.5.0",
         "wpackagist-plugin/http-requests-manager": "<=1.3.11",
         "wpackagist-plugin/https-links-in-content": "<=0.2.4",
+        "wpackagist-plugin/https-redirection": "<=2.0.1",
         "wpackagist-plugin/hub-core": "<=5.0.8",
         "wpackagist-plugin/hub2word": "<=1.1.0",
         "wpackagist-plugin/hueman-addons": "<=2.3.3",
