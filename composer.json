@@ -5061,7 +5061,7 @@
         "wpackagist-plugin/fluent-support-pro": "<=2.3.1",
         "wpackagist-plugin/fluentcampaign-pro": "<=3.1.12",
         "wpackagist-plugin/fluentcrm-pro": "<=3.1.12",
-        "wpackagist-plugin/fluentform": "<= 6.2.14.0",
+        "wpackagist-plugin/fluentform": "<= 6.2.15.0",
         "wpackagist-plugin/fluentformpro": "<= 6.2.13.0",
         "wpackagist-plugin/fluentforms-pdf": "<=1.1.7",
         "wpackagist-plugin/fluid-accessible-pager": "*",
