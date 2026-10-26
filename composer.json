@@ -6452,7 +6452,7 @@
         "wpackagist-plugin/inseri-core": "<=1.0.5",
         "wpackagist-plugin/insert-code": "<=2.4",
         "wpackagist-plugin/insert-estimated-reading-time": "<=1.2",
-        "wpackagist-plugin/insert-headers-and-footers": "<= 2.3.5.0",
+        "wpackagist-plugin/insert-headers-and-footers": "< 2.4.0.0-dev",
         "wpackagist-plugin/insert-headers-and-footers-script": "<= 1.1.8.0",
         "wpackagist-plugin/insert-html-here": "<=1.0",
         "wpackagist-plugin/insert-html-snippet": "<1.2.1",
