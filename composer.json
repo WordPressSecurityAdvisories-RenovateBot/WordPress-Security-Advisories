@@ -6884,6 +6884,7 @@
         "wpackagist-plugin/klarna-order-management-for-woocommerce": "<=1.9.8",
         "wpackagist-plugin/klarna-payments-for-woocommerce": "<= 4.13.3.0",
         "wpackagist-plugin/klaviyo": "<=3.0.9",
+        "wpackagist-plugin/kliken-ads-pixel-for-meta": "<=1.2.2",
         "wpackagist-plugin/klubraum-membership-request": "<=1.1.0",
         "wpackagist-plugin/kn-fix-your": "<=1.0.1",
         "wpackagist-plugin/knews": "<= 1.7.0.0",
