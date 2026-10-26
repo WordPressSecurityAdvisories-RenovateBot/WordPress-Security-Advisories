@@ -8974,6 +8974,7 @@
         "wpackagist-plugin/paytium": "<= 5.0.3.0",
         "wpackagist-plugin/paytm-donation": "<= 2.3.3.0",
         "wpackagist-plugin/paytm-payments": "<= 2.8.8.0",
+        "wpackagist-plugin/paytpv-for-woocommerce": "<=5.45",
         "wpackagist-plugin/paytr-taksit-tablosu-woocommerce": "<= 1.3.3.0",
         "wpackagist-plugin/payu-india": "< 3.9.0.0-dev",
         "wpackagist-plugin/pb-embedflash": "<=1.5.1",
