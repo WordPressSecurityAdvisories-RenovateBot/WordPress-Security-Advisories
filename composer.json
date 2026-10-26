@@ -2111,6 +2111,7 @@
         "wpackagist-plugin/campaign-monitor-wp": "<= 2.5.7.0",
         "wpackagist-plugin/campaign-url-builder": "<=1.8.1",
         "wpackagist-plugin/campay-api": "<=1.2.2",
+        "wpackagist-plugin/campay-shortcode-payment-gateway": "<1.7",
         "wpackagist-plugin/camptix": "<1.5",
         "wpackagist-plugin/campus-directory": "<= 1.9.1.0",
         "wpackagist-plugin/campus-explorer-widget": "<=1.4",
