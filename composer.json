@@ -6022,7 +6022,7 @@
         "wpackagist-plugin/hive-support": "<= 1.2.11.0",
         "wpackagist-plugin/hivepress": "<=1.7.32",
         "wpackagist-plugin/hivepress-authentication": "<=1.1.4",
-        "wpackagist-plugin/hivepress-claim-listings": "<=1.1.3",
+        "wpackagist-plugin/hivepress-claim-listings": "<= 1.1.4.0",
         "wpackagist-plugin/hiweb-export-posts": "<=0.9.0.0",
         "wpackagist-plugin/hiweb-migration-simple": "<=2.0.0.1",
         "wpackagist-plugin/hk-exif-tags": "<=1.11",
