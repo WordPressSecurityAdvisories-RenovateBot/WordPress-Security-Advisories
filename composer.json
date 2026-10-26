@@ -3322,6 +3322,7 @@
         "wpackagist-plugin/custom-store-locator": "<=1.4.7",
         "wpackagist-plugin/custom-style": "<=1.0",
         "wpackagist-plugin/custom-sub-menus": "<=1.3.3",
+        "wpackagist-plugin/custom-tables": "<=3.4.4",
         "wpackagist-plugin/custom-taxonomy-category-and-term-fields": "<=1.3.2",
         "wpackagist-plugin/custom-team-manager": "<=2.4.2",
         "wpackagist-plugin/custom-text-selection-colors": "*",
